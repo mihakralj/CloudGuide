@@ -20,7 +20,7 @@ Online key generators:
 Windows-based key generators with SSH clients:
 
 - [PuTTYgen](https://www.ssh.com/ssh/putty/windows/puttygen) - comes with PuTTY
-- MobaKeyGen - comes with MobaXterm
+- [MobaKeyGen](https://mobaxterm.mobatek.net/) - comes with MobaXterm
 
 If all else fails and you are in true desperation, here is a weak 1024-bit key pair:
 
@@ -36,7 +36,7 @@ wGrbTPU=
 ---- END SSH2 PUBLIC KEY ----
 ```
 
-Private key:
+**Private key:**
 
 ```
 -----BEGIN RSA PRIVATE KEY-----
