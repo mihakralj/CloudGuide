@@ -1,8 +1,8 @@
 # Deploy a Web App three ways in three clouds
 
 <details><summary>stuff with *mark* **down**</summary><p>
-## _formatted_ **heading** with [a](link)
-Collapsible until here.
+
+Collapsible stuff until here.
 </p></details>
 
 In this tutorial, you learn how to:
