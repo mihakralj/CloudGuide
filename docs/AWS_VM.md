@@ -51,9 +51,7 @@ echo "<h1>Hello world from AWS VM!</h1>" | sudo tee /var/www/html/index.html
 
 11. Select **Review and Launch** at the bottom of the screen of Step 6
 12. Select **Launch** at Step 7
-13. Select your imported key at **Select a key pair** and check the checkbox
-
-![AWS_keypair](../images/AWS_keypair.jpg)
+13. Select your imported key at **Select a key pair** and check the checkbox <details><summary>Show me how</summary>![AWS_keypair](../images/AWS_keypair.jpg)</details>
 
 14. Select **Launch Instances** and let the process take 3-5 minutes to initiate the instance.
 
