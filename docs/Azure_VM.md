@@ -29,7 +29,7 @@ Check the [Prerequisites](/docs/prerequisites.md) document how to obtain either.
 ### Choose a size page
 
 1. Select **B1s** or other similarly tiny virtual machine size
-2. Select **Select** at the bottom of the screen to proceed to *Settings* page
+2. Select **Select** at the bottom of the page to proceed to *Settings* page
 
 ### Settings page
 
@@ -43,16 +43,36 @@ Check the [Prerequisites](/docs/prerequisites.md) document how to obtain either.
 #### Install Extension page
 
 1. On your local computer create a new file named **script.sh**
-2. Insert the following three lines into the file:
+2. Insert the following three lines into the file: 
 ```
 #!/bin/bash
 sudo apt install nginx -y
-echo "<h1>Hello world from AWS VM!</h1>" | sudo tee /var/www/html/index.html
+echo "<h1>Hello world from Azure VM!</h1>" | sudo tee /var/www/html/index.html
 ```
-3. Save the **script.sh** file
-4. In Azure console, click **Select a file** field and choose the *script.sh* file from your local disk
-5. Click **OK** at the bottom of the screen to return to Extensions pane
+1. Save the **script.sh** file to your local disk
+2. In Azure console, click **Select a file** field and choose the *script.sh* file from your local disk
+3. Click **OK** at the bottom of the page to return to Extensions pane
+4. Click **OK** again to close the Extensions pane
+5. Click **OK** for the third time to close the Settings pane
 
-7. dsds
-8. dsds
-9. 
+### Create page
+
+1. If configuration was entered correctly, the top of the pane will display **Validation passed**.
+2. Select **Create** at the bottom of the page to start the deployment. It will take 5-7 minutes to deploy the instance.
+
+## Test the web server
+
+1. Go to the **Azure dashboard** section on the left and wait for *your_server_name* deployment to complete and is in **Running** state.
+2. Select **your_server_name**
+3. Check the **Public IP address** of the newly created instance
+4. Use the browser to load your functioning public web page using **http://your_IP_address**
+
+## `SUCCESS!`
+
+## Clean-up tasks
+
+1. Go to the **Resource groups** section on the left
+2. Right-click on the line with your *your_server_name* resource group
+3. Select **Delete resource group**
+4. Type **your_server_name** into the Resource group field
+5. Acknowledge by selecting **Delete** at the bottom of the page

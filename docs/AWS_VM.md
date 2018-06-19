@@ -45,7 +45,7 @@ echo "<h1>Hello world from AWS VM!</h1>" | sudo tee /var/www/html/index.html
 12. Select **Launch** at Step 7
 13. Select your imported key at **Select a key pair** and check the checkbox <details><summary>Show me how</summary>![AWS_keypair](../images/AWS_keypair.jpg)</details>
 
-21. Select **Launch Instances** and let the process take 3-5 minutes to initiate the instance.
+21. Select **Launch Instances** and start the deployment. It will take 3-5 minutes to initiate the instance.
 
 ## Test the web server
 
