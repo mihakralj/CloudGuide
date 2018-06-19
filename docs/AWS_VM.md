@@ -19,11 +19,11 @@ Check the [Prerequisites](/docs/prerequisites.md) document how to obtain either.
 4. Select **Import Key Pair**
 5. Enter the chosen name for the Key pair
 6. Insert your public key into the contents window
-7. Select **Import** <details><summary>Show me how</summary><p>
+7. Select **Import** <details><summary>Show me how</summary>
 
 ![AWS_importkeypair](../images/AWS_importkeypair.jpg)
 
-</p></details>
+</details>
 
 ## Launch Instance
 
