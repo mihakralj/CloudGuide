@@ -21,7 +21,9 @@ Check the [Prerequisites](/docs/prerequisites.md) document how to obtain either.
 6. Insert your public key into the contents window
 7. Select **Import** <details><summary>Show me how</summary><p>
 
-![AWS_importkeypair](../images/AWS_importkeypair.jpg)</p></details>
+![AWS_importkeypair](../images/AWS_importkeypair.jpg)
+
+</p></details>
 
 ## Launch Instance
 
