@@ -21,7 +21,7 @@ Check the [Prerequisites](/docs/prerequisites.md) document how to obtain either.
 6. Insert your public key into the contents window
 7. Select **Import** <details><summary>Show me how</summary>![AWS_importkeypair](../images/AWS_importkeypair.jpg)</details>
 
-## Launch Instance
+## Launch the Instance
 
 1. Go to the **EC2** section under Services - Compute Services
 2. Select **Launch Instance**
