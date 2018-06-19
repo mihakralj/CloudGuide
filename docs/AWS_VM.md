@@ -23,7 +23,7 @@ Check the [Prerequisites](/docs/prerequisites.md) document how to obtain either.
 
 ## Launch the Instance
 
-1. Go to the **EC2** section under Services - Compute Services
+1. In AWS COnsole, go to the **EC2** section under Services - Compute Services
 2. Select **Launch Instance**
 3. Select **Ubuntu Server** at Step 1
 4. Select **Next: Configure Instance Details** at Step 2 (keep *t2.micro* as a default instance type)
