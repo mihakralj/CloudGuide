@@ -1,10 +1,5 @@
 # Deploy a Web App three ways in three clouds
 
-<details><summary>stuff with *mark* **down**</summary><p>
-
-Collapsible stuff until here.
-</p></details>
-
 In this tutorial, you learn how to:
 
 ### AWS Deployments
