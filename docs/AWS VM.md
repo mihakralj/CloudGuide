@@ -55,5 +55,11 @@ echo "<h1>Hello world from AWS VM!</h1>" | sudo tee /var/www/html/index.html
 
 ![AWS_keypair](../images/AWS_keypair.jpg)
 
-14. Select **Launch Instances**
+14. Select **Launch Instances** and let the process take 3-5 minutes to initiate the instance.
 
+## Test the web server
+
+1. Go to the **EC2 **section under Services - Compute Services
+2. Select **Instances** under Instances
+3. Check the IP address of the newly created instance
+4. 
