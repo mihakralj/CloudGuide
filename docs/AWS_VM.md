@@ -54,7 +54,7 @@ echo "<h1>Hello world from AWS VM!</h1>" | sudo tee /var/www/html/index.html
 17. Check the **IPv4 Public IP** of the newly created instance <details><summary>Show me how</summary>TBD</details>
 18. Use the browser to load your functioning public web page using **http://your_IP_address**
 
-### SUCCESS!
+## `SUCCESS!`
 
 ## Clean-up tasks
 

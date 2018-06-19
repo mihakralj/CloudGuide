@@ -9,7 +9,7 @@ In this tutorial, you learn how to:
 
 ### AWS Deployments
 
-:cloud: [Deploy a **VM** with web server (Ubuntu + nginx)](/docs/AWS%20VM.md)
+:cloud:️️️️ [Deploy a **VM** with web server (Ubuntu + nginx)](/docs/AWS_VM.md)
 
 ☁️ Deploy a Web server **container**  (EKS + Docker + nginx)
 
@@ -19,7 +19,7 @@ In this tutorial, you learn how to:
 
 ### Azure Deployments
 
-☁️ Deploy a **VM** with web server (Ubuntu + nginx)
+☁️ [Deploy a **VM** with web server (Ubuntu + nginx)](/docs/Azure_VM.md)
 
 ☁️ Deploy a Web server **container**  (AKS + Docker + nginx)
 
