@@ -1,12 +1,15 @@
 # Deploy a Web App three ways in three clouds
 
-{preamble}
+<details><summary>stuff with *mark* **down**</summary><p>
+## _formatted_ **heading** with [a](link)
+Collapsible until here.
+</p></details>
 
 In this tutorial, you learn how to:
 
 ### AWS Deployments
 
-:cloud: Deploy a **VM** with web server (Ubuntu + nginx)
+:cloud: [Deploy a **VM** with web server (Ubuntu + nginx)](/docs/AWS%20VM.md)
 
 ☁️ Deploy a Web server **container**  (EKS + Docker + nginx)
 
