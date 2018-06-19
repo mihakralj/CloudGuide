@@ -27,11 +27,7 @@ Check the [Prerequisites](/docs/prerequisites.md) document how to obtain either.
 
 7. Select **Import** <details><summary>Show me how</summary>
 
-   hidden text
-
-![AWS_importkeypair](../images/AWS_importkeypair.jpg)
-
-more hidden text</details>
+   hidden text![AWS_importkeypair](../images/AWS_importkeypair.jpg)more hidden text</details>
 
 ## Launch Instance
 
