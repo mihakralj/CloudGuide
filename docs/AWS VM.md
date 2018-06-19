@@ -1,0 +1,1 @@
+# Deploy AWS VM with Ubuntu Linux and Nginx server

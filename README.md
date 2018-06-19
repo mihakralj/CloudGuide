@@ -4,31 +4,31 @@
 
 In this tutorial, you learn how to:
 
-​	:cloud: Deploy a **VM** with web server
+### AWS Deployments
 
-​		In AWS: Ubuntu+nginx
+:cloud: Deploy a **VM** with web server (Ubuntu + nginx)
 
-​		In Azure: Ubuntu+nginx
+☁️ Deploy a Web server **container**  (EKS + Docker + nginx)
 
-​		In GCP: Ubuntu+nginx
+☁️Deploy a web app with cloud **function** (API GW + Lambda + Node.js)
 
-​	✅ Deploy a Web server **container**  in AWS, Azure and GCP
 
-​		In AWS: EKS+Docker+nginx
 
-​		In Azure: AKS+Docker+nginx
+### Azure Deployments
 
-​		In GCP: K8s+Docker+nginx		
+☁️ Deploy a **VM** with web server (Ubuntu + nginx)
 
-​	✅ Deploy a web app with cloud **functions** in AWS, Azure and GCP
+☁️ Deploy a Web server **container**  (AKS + Docker + nginx)
 
-​		In AWS: API GW+Lambda+Node.js
+☁️Deploy a web app with cloud **function** (Azure Function + Node.js)
 
-​		In Azure: Azure Function+Node.js
 
-​		In GCP: Google Function+Node.js
 
-### Prerequisites
+### GCP Deployments
 
-To complete this tutorial, you need:
+☁️ Deploy a **VM** with web server (Ubuntu + nginx)
+
+☁️ Deploy a Web server **container**  (Kubernetes + Docker + nginx)
+
+☁️Deploy a web app with cloud **function** (Google Function + Node.js)
 
