@@ -47,9 +47,7 @@ echo "<h1>Hello world from AWS VM!</h1>" | sudo tee /var/www/html/index.html
 7. Select **Next: Add Storage** at the bottom of the screen of Step 3
 8. Select **Next: Add Tags** at Step 4
 9. Select **Next: Configure Security Group** at Step 5
-10. Select **Add Rule** and select HTTP in a drop-down box for the new rule <details><summary>Show me how</summary>
-
-![AWS_httpport](../images/AWS_httpport.jpg)</details>
+10. Select **Add Rule** and select HTTP in a drop-down box for the new rule <details><summary>Show me how</summary>![AWS_httpport](../images/AWS_httpport.jpg)</details>
 
 11. Select **Review and Launch** at the bottom of the screen of Step 6
 12. Select **Launch** at Step 7
