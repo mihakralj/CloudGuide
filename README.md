@@ -4,7 +4,7 @@
 
 In this tutorial, you learn how to:
 
-​	✅ Deploy a **VM** with web server
+​	:cloud: Deploy a **VM** with web server
 
 ​		In AWS: Ubuntu+nginx
 
@@ -28,8 +28,7 @@ In this tutorial, you learn how to:
 
 ​		In GCP: Google Function+Node.js
 
+### Prerequisites
 
+To complete this tutorial, you need:
 
-
-
-If you don't have 
