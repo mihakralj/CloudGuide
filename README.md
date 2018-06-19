@@ -12,11 +12,11 @@ In this tutorial, you learn how to:
 
 
 
-|           | Virtual machine | Container | Function |
-| --------- | :-------------- | --------- | -------- |
-| **AWS**   |                 |           |          |
-| **Azure** |                 |           |          |
-| **GCP**   |                 |           |          |
+|           | VM           | Container        | Function                |
+| --------- | :----------- | ---------------- | ----------------------- |
+| **AWS**   | Ubuntu+nginx | EKS+Docker+nginx | API GW+Lambda+Node.js   |
+| **Azure** | Ubuntu+nginx | AKS+Docker+nginx | Azure Function+Node.js  |
+| **GCP**   | Ubuntu+nginx | K8s+Docker+nginx | Google Function+Node.js |
 
 
 
