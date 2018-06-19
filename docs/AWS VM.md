@@ -1,7 +1,3 @@
----
-typora-copy-images-to: ..\images
----
-
 # Deploy AWS VM with Ubuntu Linux and Nginx server
 
 In this tutorial , you learn how to deploy a functioning web server on AWS VMs using Ubuntu OS and Nginx web server.
