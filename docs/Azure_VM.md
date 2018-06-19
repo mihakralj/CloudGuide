@@ -21,7 +21,7 @@ Check the [Prerequisites](/docs/prerequisites.md) document how to obtain either.
 
 1. Enter *your_server_name* in the **Name** field in the Basics section
 2. Enter *ubuntu* in the **Username** field
-3. Paste the *public key* string into **SSH public key** field
+3. Paste the *public key* string in PEM format into **SSH public key** field
     - Check [prerequisites](/docs/prerequisites.md) for a proper formatting of the public key
 4. Enter *your_server_name* in the **Resource group** field and keep the selection on **Create New**
 5. Select **OK** to proceed to *Choose a size* page

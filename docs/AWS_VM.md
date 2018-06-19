@@ -18,7 +18,8 @@ Check the [Prerequisites](/docs/prerequisites.md) document how to obtain either.
 3. Select **Key Pairs** under Network & Security select Key Pair
 4. Select **Import Key Pair**
 5. Enter the chosen name for the Key pair
-6. Insert your public key into the contents window
+6. Paste your public key in PEM format into the contents window
+    - Check [prerequisites](/docs/prerequisites.md) for a proper formatting of the public key
 7. Select **Import**
 
 ## Launch the Instance
