@@ -14,16 +14,24 @@ Check the [Prerequisites](/docs/prerequisites.md) document how to obtain either.
 ## Import SSH keys
 
 1. Log to AWS console
+
 2. Go to the **EC2 **section under Services - Compute Services
+
 3. Select **Key Pairs** under Network & Security select Key Pair
+
 4. Select **Import Key Pair**
+
 5. Enter the chosen name for the Key pair
+
 6. Insert your public key into the contents window
+
 7. Select **Import** <details><summary>Show me how</summary>
+
+   hidden text
 
 ![AWS_importkeypair](../images/AWS_importkeypair.jpg)
 
-</details>
+more hidden text</details>
 
 ## Launch Instance
 
