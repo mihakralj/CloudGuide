@@ -1,6 +1,6 @@
 # Prerequisites
 
-### Get Free Cloud Subscription
+## Get Free Cloud Subscription
 
 [Free AWS account](https://aws.amazon.com/free/)
 
@@ -8,7 +8,7 @@
 
 [Free Google account](https://cloud.google.com/free/)
 
-### Generate SSH authentication keys
+## Generate SSH authentication keys
 
 SSH authentication keys are strings of text that come in pairs, as a private and a public key. Public key is used for authentication on the server side while private key should stay protected with a user and shouldn't be shared.
 
@@ -22,21 +22,25 @@ Windows-based key generators with SSH clients:
 - [PuTTYgen](https://www.ssh.com/ssh/putty/windows/puttygen) - comes with PuTTY
 - [MobaKeyGen](https://mobaxterm.mobatek.net/) - comes with MobaXterm
 
-If all else fails and you are in true desperation, here is a weak 1024-bit key pair:
+If all else fails and you are in true desperation, here is a weak 1024-bit key pair to use for demo and non-production purposes:
 
-**Public key:**
-
+### Sample public key
+**PEM form**
 ```
 ---- BEGIN SSH2 PUBLIC KEY ----
-Comment: "rsa-key"
 AAAAB3NzaC1yc2EAAAABJQAAAIEAz1HxeWCB4XwPp9fo6pF2wPFjgTAT3FBjDWoF
 7XWbdoMAtVhaFTMT8dJwVAfAMcBsqV7s1yYdHchB+JyJRdI+rUhkCf9GsrwO3EK4
 pD0bQRsaGikMBstnaCJEo7rYa2ZLryRtaIOYe3mXv/3bdISXpY4zobYPzzB6KtI/
 wGrbTPU=
 ---- END SSH2 PUBLIC KEY ----
 ```
+**rsa-key form (one line, no line breaks)**
+```
+ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAIEAz1HxeWCB4XwPp9fo6pF2wPFjgTAT3FBjDWoF7XWbdoMAtVhaFTMT8dJwVAfAMcBsqV7s1yYdHchB+JyJRdI+rUhkCf9GsrwO3EK4pD0bQRsaGikMBstnaCJEo7rYa2ZLryRtaIOYe3mXv/3bdISXpY4zobYPzzB6KtI/wGrbTPU= ubuntu
+```
 
-**Private key:**
+### Sample private key
+**OpenSSH form:**
 
 ```
 -----BEGIN RSA PRIVATE KEY-----
@@ -56,7 +60,7 @@ LcyHEu4ZeD6YWwNTYzMsw/8WVEQI6g4L9lyX6bHx
 -----END RSA PRIVATE KEY-----
 ```
 
-### Install SSH client (optional)
+## Install SSH client (optional)
 
 Windows:
 
