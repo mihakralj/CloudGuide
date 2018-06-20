@@ -7,7 +7,7 @@ In this tutorial you will learn how to deploy a simple Azure .js function that r
 To complete this tutorial, you will need:
 
 - Azure subscription
-- 
+
 Check the [Prerequisites](/docs/prerequisites.md) document how to obtain either.
 
 ## Create Azure Function
@@ -31,7 +31,7 @@ Check the [Prerequisites](/docs/prerequisites.md) document how to obtain either.
 2. Choose **JavaScript** as a *Language* in the *HTTP trigger* pane
 3. Choose **Anonymous** as the *Authorization level* of HTTP trigger
 4. Select **Create** to create a new function
-5. Paste the code below over the existing javascript sample
+5. Paste the code below over the existing javascript example
 
 ```
 module.exports = (context, req) => {
@@ -45,7 +45,10 @@ context.bindings.res = {
 6. Select **Save and Run** and check the output in the bottom right corner of the page
 7. Select **</> Get function URL** at the top of the page
 8. Select and copy (Ctrl-c) the function URL, close the window by clicking the **x** in the top right corner
-9. Use the browser to load your function page using the **Azure function URL**
+
+## Test the Function
+
+1. Use the browser to load your function page using the **Azure function URL**
 
 ## `SUCCESS!`
 

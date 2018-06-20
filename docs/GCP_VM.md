@@ -14,7 +14,7 @@ Check the [Prerequisites](/docs/prerequisites.md) document how to obtain either.
 ## Launch the Instance
 
 1. In [GCP console](https://console.cloud.google.com) hover over **Compute Engine** and select **VM instances**
-2. Select **Create Instance** at the top of the page
+2. Select **Create Instance**
 3. Enter **your_server_name** in the *Name* field
 4. Select **Change** in *Boot disk* section
 5. Choose (any) **Ubuntu** image at the *Boot disk* page
