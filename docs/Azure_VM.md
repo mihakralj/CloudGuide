@@ -71,7 +71,7 @@ echo "<h1>Hello world from Azure VM!</h1>" | sudo tee /var/www/html/index.html
 
 ## Clean-up tasks
 
-1. Go to the **Resource groups** section on the left
+1. Go to the **Resource groups** section of Azure portal
 2. Right-click on the line with your *your_server_name* resource group
 3. Select **Delete resource group**
 4. Type **your_server_name** into the Resource group field
