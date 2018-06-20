@@ -64,7 +64,7 @@ echo "<h1>Hello world from Azure VM!</h1>" | sudo tee /var/www/html/index.html
 
 1. Go to the **Azure dashboard** section on the left and wait for *your_server_name* deployment to complete and is in **Running** state.
 2. Select **your_server_name**
-3. Check the **Public IP address** of the newly created instance
+3. Select and copy (ctrl-c) **Public IP address** of the newly created instance
 4. Use the browser to load your functioning public web page using **http://your_IP_address**
 
 ## `SUCCESS!`

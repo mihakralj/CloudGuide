@@ -50,7 +50,7 @@ echo "<h1>Hello world from AWS VM!</h1>" | sudo tee /var/www/html/index.html
 
 1. Go to the **EC2 **section under Services - Compute Services
 2. Select **Instances** under Instances
-3. Check the **IPv4 Public IP** of the newly created instance 
+3. Select and copy (ctrl-c) **IPv4 Public IP** of the newly created instance 
 4. Use the browser to load your functioning public web page using **http://your_IP_address**
 
 ## `SUCCESS!`
