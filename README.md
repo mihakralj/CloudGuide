@@ -6,7 +6,7 @@ In this tutorial, you learn how to:
 
 - [Deploy a **VM** with web server (Ubuntu + nginx)](/docs/AWS_VM.md)
 - Deploy a Web server **container**  (EKS + Docker + nginx)
-- Deploy a web app with cloud **function** (API GW + Lambda + javascript)
+- [Deploy a web app with cloud **function** (API GW + Lambda + javascript)](/docs/AWS_FaaS.md)
 
 ### Azure Deployments
 
