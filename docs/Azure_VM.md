@@ -7,7 +7,7 @@ In this tutorial you will learn how to deploy a functioning web server on Azure 
 To complete this tutorial, you will need:
 
 - Azure subscription
-- Pair of SSH authentication keys
+- Public SSH authentication key
 
 Check the [Prerequisites](/docs/prerequisites.md) document how to obtain either.
 

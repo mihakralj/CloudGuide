@@ -7,7 +7,7 @@ In this tutorial , you learn how to deploy a functioning web server on AWS VMs u
 To complete this tutorial, you will need:
 
 - AWS subscription
-- Pair of SSH authentication keys
+- Public SSH authentication key
 
 Check the [Prerequisites](/docs/prerequisites.md) document how to obtain either.
 
