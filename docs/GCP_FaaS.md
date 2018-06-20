@@ -6,8 +6,7 @@ In this tutorial you will learn how to deploy a simple GCP .js function that res
 
 To complete this tutorial, you will need:
 
-- GCP subscription
-- [(Free) Google account](https://cloud.google.com/free/)
+- GCP subscription or [free Google account](https://cloud.google.com/free/)
 
 ## Create GCP Function
 

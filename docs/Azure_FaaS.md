@@ -6,9 +6,7 @@ In this tutorial you will learn how to deploy a simple Azure .js function that r
 
 To complete this tutorial, you will need:
 
-- Azure subscription
-
-Check the [Prerequisites](/docs/prerequisites.md) document how to obtain either.
+- Azure subscription or [free Azure account](https://azure.microsoft.com/free/?ref=microsoft.com&amp;utm_source=microsoft.com&amp;utm_medium=docs&amp;utm_campaign=visualstudio )
 
 ## Create Azure Function
 
