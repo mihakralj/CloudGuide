@@ -13,7 +13,7 @@ Check the [Prerequisites](/docs/prerequisites.md) document how to obtain either.
 
 ## Launch the Instance
 
-1. In [Azure portal](https://portal.azure.com), select **Create a resource**
+1. In [Azure portal](https://portal.azure.com) select **Create a resource**
 2. Select **Ubuntu Server** among Popular resources
     - Alternatively, search for *Ubuntu* resource and select **Ubuntu Server**
 

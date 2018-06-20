@@ -1,6 +1,6 @@
 # Deploy AWS VM with Ubuntu Linux and Nginx server
 
-In this tutorial , you learn how to deploy a functioning web server on AWS VMs using Ubuntu OS and Nginx web server.
+In this tutorial you learn how to deploy a functioning web server on AWS VMs using Ubuntu OS and Nginx web server.
 
 ## Prerequisites
 
@@ -30,11 +30,13 @@ Check the [Prerequisites](/docs/prerequisites.md) document how to obtain either.
 4. Select **Next: Configure Instance Details** at Step 2 (keep *t2.micro* as a default instance type)
 5. Extend the **Advanced Details** section at the bottom of the screen at Step 3
 6. Insert into **User data** field the following configuration script:
+
 ```bash
 #!/bin/bash
 sudo apt install nginx -y
 echo "<h1>Hello world from AWS VM!</h1>" | sudo tee /var/www/html/index.html
 ```
+
 7. Select **Next: Add Storage** at the bottom of the screen of Step 3
 8. Select **Next: Add Tags** at Step 4
 9. Select **Next: Configure Security Group** at Step 5
