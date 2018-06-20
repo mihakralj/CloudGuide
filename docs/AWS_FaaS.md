@@ -10,13 +10,12 @@ To complete this tutorial, you will need:
 
 ## Create AWS Lambda Function
 
-1. Log to AWS console
-2. Select **Lambda** section under Compute
-3. Select **Create a function**
-4. Enter **your_function_name** in the *Name* field
-5. Select **Create new role from template(s)** in the *Role* selector
-6. Enter **your_function_role_name** in the *Role name* field
-7. Select **Create function** at the bottom of the page
+1. Select **Lambda** section under Compute in [AWS console](https://console.aws.amazon.com)
+2. Select **Create a function**
+3. Enter **your_function_name** in the *Name* field
+4. Select **Create new role from template(s)** in the *Role* selector
+5. Enter **your_function_role_name** in the *Role name* field
+6. Select **Create function** at the bottom of the page
  
 ### Lambda Configuration
 
@@ -32,14 +31,14 @@ callback(null, response);
 };
 ```
 
-3. Scroll back up the page and select **API Gateway** under *Add triggers* on the left side of the page
-4. Select **Create a new API** in the *API* selector
-5. Enter **your_API_name** in the *API name* field
-6. Enter **prod** in the *Deployment stage* field
-7. Select **Open** in the *Security* selector
-8. Select **Add** at the bottom of the page
-9. Select **Save** at the top of the same page
-10. Select **your_API_name** under *API Gateway* at the bottom left of the page
+2. Scroll back up the page and select **API Gateway** under *Add triggers* on the left side of the page
+3. Select **Create a new API** in the *API* selector
+4. Enter **your_API_name** in the *API name* field
+5. Enter **prod** in the *Deployment stage* field
+6. Select **Open** in the *Security* selector
+7. Select **Add** at the bottom of the page
+8. Select **Save** at the top of the same page
+9. Select **your_API_name** under *API Gateway* at the bottom left of the page
 
 ##  API Gateway Configuration
 
